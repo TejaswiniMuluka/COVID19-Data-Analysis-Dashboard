@@ -39,9 +39,7 @@ Created an interactive dashboard including:
 - Global COVID map visualization
 
 ## 📈 Dashboard Preview
-
-(Add dashboard screenshot here)
-
+![COVID-19 Dashboard](Screenshot%202026-06-24%20164014.png)
 ## Key Insights
 - Identified countries with highest COVID impact
 - Compared recovery and mortality rates
